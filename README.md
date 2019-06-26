@@ -1,4 +1,3 @@
-# hello-world
 GitHub Tutorial repository
 Trying GitHub to save other usefull repositories about
   Python
@@ -8,3 +7,4 @@ Trying GitHub to save other usefull repositories about
   NN
   DataScience
   
+ Delete test
