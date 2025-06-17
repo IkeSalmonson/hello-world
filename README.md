@@ -19,8 +19,8 @@ Trying GitHub to save other usefull repositories about
  ``` git push origin main ```
 
 4. change the remote default repo going to:  https://github.com/[username]/[repo]/settings 
-  > Default branch
-   > Switch to another branch
+  > Default branch <br>
+   > Switch to another branch <br>
 
 5. change the main local branch upstrem to match remote <br>
  ``` git branch --set-upstream-to=origin/main main  ``` <br>
