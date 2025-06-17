@@ -9,14 +9,14 @@ Trying GitHub to save other usefull repositories about
    
 
 # Git rename branch to Main
-1. rename your local branch:
-   ``` git branch -m master main  ```
-2. change the tracked branch
- ``` git fetch -p origin   ```
- ``` git branch -u origin/master main  ```
-3. change the main local branch
- ``` git remote set-head origin -a  ```
+1. rename your local branch: <br>
+   ``` git branch -m master main  ``` <br>
+2. change the tracked branch <br>
+ ``` git fetch -p origin   ``` <br>
+ ``` git branch -u origin/master main  ``` <br>
+3. change the main local branch <br>
+ ``` git remote set-head origin -a  ``` <br>
 
-4. optionally, remove the master branch, local and remotely:
- ``` git branch -D master  ```
-  ``` git push origin :master  ```
+4. optionally, remove the master branch, local and remotely: <br>
+ ``` git branch -D master  ``` <br>
+  ``` git push origin :master  ``` <br>
