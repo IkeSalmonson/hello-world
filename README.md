@@ -6,5 +6,4 @@ Trying GitHub to save other usefull repositories about
   RNN
   NN
   DataScience
-  
- Delete test
+   
