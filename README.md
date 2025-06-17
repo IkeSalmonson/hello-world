@@ -16,7 +16,5 @@ Trying GitHub to save other usefull repositories about
  ``` git branch -u origin/master main  ``` <br>
 3. change the main local branch <br>
  ``` git remote set-head origin -a  ``` <br>
+4. change the remote default repo going to:  https://github.com/[username]/[repo]/settings: Default branch
 
-4. optionally, remove the master branch, local and remotely: <br>
- ``` git branch -D master  ``` <br>
-  ``` git push origin :master  ``` <br>
